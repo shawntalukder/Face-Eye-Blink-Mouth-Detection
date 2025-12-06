@@ -19,7 +19,7 @@ This project uses **OpenCV** and **MediaPipe** to perform real-time detection an
 Make sure these Python libraries are installed before running the notebook:
 ```bash
 pip install opencv-python mediapipe numpy scipy
-```
+``
 
 ## How It Works
 
